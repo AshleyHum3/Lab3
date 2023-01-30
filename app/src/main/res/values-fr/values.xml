@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Entrez votre nom</string>
+    <string name="button_text">Je suis un bouton!”</string>
+    <string name="app_name">Lab2</string>>
+    <string name="welcome">Bienvenue!</string>
+    <string name="DCMT_button">Ne m\'appelle pas comme ça</string>
+    <string name="toast_message">Le laboratoire a été mis à jour !</string>
+    <string name="checkbox_on">sur</string>
+    <string name="checkbox_off">hors</string>
+    <string name="undo">annuler</string>
+    <string name="off_on">changer hors/sur</string>
+    <string name="check">Regarde ça!</string>
+    <string name="thank_you">Merci</string>
+</resources>

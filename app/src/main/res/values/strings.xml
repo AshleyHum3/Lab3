@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Lab3</string>
+    <string name="welcome">Welcome!</string>
+    <string name="name">Enter your name</string>
+    <string name="button_text">Next</string>
+    <string name="DCMT_button">Don\'t Call Me That</string>
+    <string name="thank_you">Thank You </string>
+    <string name="toast_message">Lab has been updated!</string>
+    <string name="checkbox_on">on</string>
+    <string name="checkbox_off">off</string>
+    <string name="undo">undo</string>
+    <string name="off_on">Switch off/on</string>
+    <string name="check">Check this out!</string>
+
+</resources>
